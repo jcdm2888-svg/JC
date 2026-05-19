@@ -1,0 +1,4 @@
+interface:
+  display_name: "山音编剧大师"
+  short_description: "用于概念短片、叙事短片、长片和剧集的剧本写作。"
+  default_prompt: "Use $shanyin-screenwriting-master 帮我进行影视剧本创作，按格式路由和分步工作流推进。"

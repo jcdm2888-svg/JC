@@ -1,0 +1,4 @@
+interface:
+  display_name: "短剧技能总集"
+  short_description: "统一调度短剧分析、策划、分镜、融图和视频提示词技能。"
+  default_prompt: "Use $shortdrama-skill-suite 统一调度当前短剧任务需要的分析、策划、分镜、融图和视频提示词技能。"

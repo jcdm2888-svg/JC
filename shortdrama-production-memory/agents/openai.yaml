@@ -1,0 +1,4 @@
+display_name: 短剧制作记忆库
+short_description: 调用本地视频教学记忆库，生成融图、分镜和 Seedance 2.0 视频提示词。
+default_prompt: 按当前剧本和素材制作严格连续的融图提示词、分镜或 Seedance 2.0 视频提示词。
+
